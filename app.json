@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "react-calc-imc",
+    "slug": "snack-bb32ce35-29cd-4b1d-8f0c-d8c8aa5e8572",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Calculadora de IMC é um Trabalho de Programação Para Dispositivos Móveis em Android - 2022.1."
+  }
+}
