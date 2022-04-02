@@ -9,7 +9,7 @@
 ## Tecnologia
 
 - JavaScript (JS),
-- ReactJs
+- ReactJs.
 
 ## Status
 
@@ -40,7 +40,7 @@ ou
 
 **2.**
 
-Se for a primeira vez clonado ou baixando o projeto, Faça:
+Se for a primeira vez clonado ou baixando o projeto, Então faça:
 
 
 * Execute este comando no Windows :  `     .\run\windows\start.bat      `.
@@ -49,9 +49,18 @@ ou
 
 * Execute este comando no Linux :  `    .\run\linux\start.sh      `.
 
+Se já possui todas as dependências do projeto, Então faça:
+
+
+* Execute este comando no Windows :  `     .\run\windows\run.bat      `.
+
+ou
+
+* Execute este comando no Linux :  `    .\run\linux\run.sh      `.
+
 ## Bugs & Problemas
 
-Tem um bug ou um problema com esteProjeto? [Abra um novo "issue"](https://github.com/MJr0019/react-calc-imc/issues) aqui no GitHub.
+Tem um bug ou um problema com este projeto? [Abra um novo "issue"](https://github.com/MJr0019/react-calc-imc/issues) aqui no GitHub.
 
 # Documentação do Sample Snack app
 
