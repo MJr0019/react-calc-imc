@@ -1,28 +1,57 @@
 <h1 align="center">
-react-calc-imc
+    react-calc-imc
 </h1> 
 
 ## Sobre
 
 * Calculadora de IMC é um Trabalho de Programação Para Dispositivos Móveis em Android - 2022.1.
 
-## Links
-
-* [GitHub](https://github.com/MJr0019/react-calc-imc), 
-
-* [Snack Expo](https://snack.expo.dev/@mjr0019/react-calc-imc), 
-
 ## Tecnologia
 
+- JavaScript (JS),
 - ReactJs
 
 ## Status
 
 - Projeto Finalizado.
 
+## Preview
+
+* [GitHub](https://github.com/MJr0019/react-calc-imc), 
+
+* [Snack Expo](https://snack.expo.dev/@mjr0019/react-calc-imc).
+
 ## Desenvolvedor
 
-- [Marcílio Júnior](https://github.com/MJr0019), 
+- [Marcílio Júnior](https://github.com/MJr0019) 
+
+
+## Download & Instalação
+
+**1.**
+
+Para começar a usar este modelo, siga as seguintes opções para começar:
+
+* Clone o Repositório, exemplo: `git clone https://github.com/MJr0019/Cade-o-Saneamento.git`
+
+ou
+
+* Baixe a [Última Versão do Projeto](https://github.com/MJr0019/react-calc-imc/tags)
+
+**2.**
+
+Se for a primeira vez clonado ou baixando o projeto, Faça:
+
+
+* Execute este comando no Windows :  `     .\run\windows\start.bat      `.
+
+ou
+
+* Execute este comando no Linux :  `    .\run\linux\start.sh      `.
+
+## Bugs & Problemas
+
+Tem um bug ou um problema com esteProjeto? [Abra um novo "issue"](https://github.com/MJr0019/react-calc-imc/issues) aqui no GitHub.
 
 # Documentação do Sample Snack app
 
