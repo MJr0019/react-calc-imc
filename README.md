@@ -30,9 +30,9 @@
 
 **1.**
 
-Para começar a usar este modelo, siga as seguintes opções para começar:
+Para começar a usar este projeto, siga as seguintes opções para começar:
 
-* Clone o Repositório, exemplo: `git clone https://github.com/MJr0019/Cade-o-Saneamento.git`
+* Clone o Repositório, exemplo: `git clone https://github.com/MJr0019/react-calc-imc.git`
 
 ou
 
